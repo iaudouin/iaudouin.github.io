@@ -1,1 +1,10 @@
-const credits=[{"title": "Producer", "name": "Dave Habeeb"},{"title": "Producer", "name": "Ruth Page"},{"title": "Director of Photography/Editor", "name": "Dave Habeeb"},{"title": "Developer", "name": "Ivan Audouin"},{"title": "Designer", "name": "Katie Leone"},{"title": "Designer", "name": "Greg Porretta"},{"title": "Creative Director", "name": "Dave Habeeb"},{"title": "Director of Multimedia Development", "name": "Ruth Page"}];
+const credits=[
+    {"title": "Producer", "name": "Dave Habeeb"},
+    {"title": "Producer", "name": "Ruth Page"},
+    {"title": "Director of Photography/Editor", "name": "Dave Habeeb"},
+    {"title": "Developer", "name": "Ivan Audouin"},
+    {"title": "Designer", "name": "Katie Leone"},
+    {"title": "Designer", "name": "Greg Porretta"},
+    {"title": "Creative Director", "name": "Dave Habeeb"},
+    {"title": "Director of Multimedia Development", "name": "Ruth Page"}
+];
