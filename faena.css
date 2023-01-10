@@ -20,7 +20,7 @@ blockquote p{color:#43818A;}
 .blockquote footer{color:#56def3;}
 
 .videobtnwrap,.exhibbtnwrap{color:#305C62; background: linear-gradient(to left, rgba(196,230,235,0) , rgba(196,230,235,1) , rgba(196,230,235,1));}
-.videobtnwrap:hover,.exhibbtnwrap:hover,.exhibbtnwrap_clicked:hover,.videobtnwrap_clicked:hover{color:#fff; background: linear-gradient(to left, rgba(132,191,211,0), rgba(132,191,211,1), rgba(132,191,211,1)); cursor:pointer;}
+.videobtnwrap:hover,.exhibbtnwrap:hover,.exhibbtnwrap_clicked:hover,.videobtnwrap_clicked:hover{color:#fff; background: linear-gradient(to left, rgba(132,191,211,0), rgba(132,191,211,1), rgba(132,191,211,1));}
 .bi-play-circle{color:#fff}
 .videobtnwrap:hover .bi-play-circle{color:#84BFD3;}
 .thumb{background-color: #43818A;}
@@ -33,6 +33,6 @@ blockquote p{color:#43818A;}
 .exhibit-content .modal-header,.exhibit-content .modal-footer{background-color: #84BFD3;  color:#fff}
 .exhib-subheader {background-color: #43818A; color:#fff}
 
-.footer-button:hover{cursor:pointer; background-color:#96CFD8;}
+.footer-button:hover{background-color:#96CFD8;}
 .footer-bottom a {text-decoration:none; color: #fff;}
 .footer-bottom a:hover {color: #96CFD8;}
